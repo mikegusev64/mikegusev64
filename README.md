@@ -1,7 +1,9 @@
 ## Hi there 👋
 - Building DailyKnower
 - Building Vnooko
-- Computer Science at Queen Mary University of London (2025) 
+- Computer Science at Queen Mary University of London (2025)
+- Django and Python
+- Next.js and React
 <!--
 **mikegusev64/mikegusev64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

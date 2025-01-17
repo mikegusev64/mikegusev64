@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- Building DailyKnower
+- Building Vnooko
+- Computer Science at Queen Mary University of London (2025) 
 <!--
 **mikegusev64/mikegusev64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
